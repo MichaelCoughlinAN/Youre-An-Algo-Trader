@@ -18,7 +18,7 @@ This script is provided for educational purposes only. Ensure you understand the
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/michaelcoughlinan/youre_an_algo_trader.git
+   git clone https://github.com/MichaelCoughlinAN/Youre-An-Algo-Trader.git
    cd Youre-An-Algo-Trader
    ```
 
@@ -72,4 +72,4 @@ Contributions to this project are welcome. Please ensure you follow best practic
 
 Creator - contact@hiimmichael.com
 IG: @hiimmichael_
-Project Link: https://github.com/michaelcoughlinan/youre_an_algo_trader
+Project Link: https://github.com/MichaelCoughlinAN/Youre-An-Algo-Trader
