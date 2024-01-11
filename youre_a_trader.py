@@ -54,6 +54,7 @@ def place_order(symbol: str, qty: float, side: str, is_crypto: bool = False):
         return None
 
 # Example usage
+# Go follow me on Instagram, show me a little support! Don't be a dick: @hiimmichael_
 if __name__ == "__main__":
     pass
     # Buy 5 shares of AAPL
