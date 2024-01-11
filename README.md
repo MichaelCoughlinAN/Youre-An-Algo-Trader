@@ -70,6 +70,6 @@ Contributions to this project are welcome. Please ensure you follow best practic
 
 ## Contact
 
-Creator - contact@hiimmichael.com
-IG: @hiimmichael_
-Project Link: https://github.com/MichaelCoughlinAN/Youre-An-Algo-Trader
+- Creator: contact@hiimmichael.com
+- IG: @hiimmichael_
+- Project Link: https://github.com/MichaelCoughlinAN/Youre-An-Algo-Trader
