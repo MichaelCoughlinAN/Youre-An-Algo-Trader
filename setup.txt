@@ -1,0 +1,36 @@
+Oh ya sure, you betcha! Let's get that Python project set up with the new Alpaca. Here's how you can do it, don't ya know:
+
+1. Install Python:
+   - First things first, you'll need Python. If it ain't on your computer yet, go ahead and download it from here: https://www.python.org/downloads/
+   - Remember now, during installation, tick that box for "Add Python to PATH".
+
+2. Create Your Project Folder:
+   - Pick out a nice spot on your computer for this project, like your desktop or documents. Then go ahead and create a new folder. You might name it "AlpacaTradingProject" or whatever tickles your fancy.
+
+3. Virtual Environment:
+   - Open your command line. That's the Terminal on Mac or Command Prompt on Windows.
+   - Use the `cd` command to go into your project folder.
+   - Then you'll want to create a virtual environment. Type `python -m venv venv`.
+   - To activate it:
+     - On Windows, type `venv\Scripts\activate`.
+     - On Mac/Linux, type `source venv/bin/activate`.
+
+4. Install Alpaca-py and Dotenv:
+   - With your virtual environment active, you're gonna want to install a couple of things. Type `pip install alpaca-py python-dotenv` into your command line and hit Enter.
+
+5. Setting Up That `.env` File:
+   - In your project folder, you'll need to create a file named `.env`.
+   - Open this file in a text editor, and add your Alpaca API keys:
+     ```
+     APCA_API_KEY_ID=your_alpaca_key
+     APCA_API_SECRET_KEY=your_alpaca_secret
+     ```
+   - Make sure to replace `your_alpaca_key` and `your_alpaca_secret` with the actual keys you get from Alpaca.
+
+6. Write Your Python Script:
+   - Now you can write your Python script. Make sure to use `load_dotenv()` from the `dotenv` package at the start of your script to load the environment variables.
+
+7. Run Your Script:
+   - Finally, with everything in place, you can run your Python script. Just make sure that virtual environment is active when you run it.
+
+And there ya go! Just follow these steps and you'll be all set up. Remember, always double-check your work, especially when dealing with financial APIs and sensitive information. Good luck now!
