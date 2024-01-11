@@ -55,7 +55,7 @@ To run the script:
 python youre_a_trader.py
 ```
 
-Replace `youre_a_trader.py` with the name of your Python script.
+Replace `youre_a_trader.py` with the name of your Python script (if you changed the name).
 
 ## Features
 
